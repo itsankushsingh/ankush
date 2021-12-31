@@ -1,1 +1,1 @@
-web: gunicorn ankush.wsgi --log-file-
+web: gunicorn ankush.wsgi --log-file -
